@@ -1,2 +1,4 @@
 # EthHodl
-Hodl your Eth for a year!
+Truffle project to hodl your Eth for a year!
+
+contract code can be found in /contracts/ethhodl.sol
